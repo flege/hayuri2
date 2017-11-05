@@ -1,0 +1,43 @@
+a:hover, #navigation .menu > li > a:hover, #navigation .menu > li.current > a, #navigation .menu > li > a:hover i, #navigation .menu > li.current > a i, #slider .header-slider p, #slider2 .slider-gallery .slider-text h3, .page-author .author .author-content .author-text ul li i, .page-contact .address-notes, #bottom a:hover, #footer a:hover { color:#42a52b; }
+
+.btn-custom, input[type="button"], input[type="submit"], input[type="reset"], button, .nav-tabs > li > a, .tbl-skills .item .tbl-skills-process, .form-search-input input[type="submit"], .scrollup:hover, #header form input[type="submit"], #slider .slider-wrapper .nivo-controlNav a.active, .features .item i, .features2 .tab-content .fa-icon, .portfolios .item .btn-readmore, .teams .item .name, .teams-big .item figure .jobs, #main .archive-main .item figure .date, #main .testimonials-main .testimonials-icon i, #main .testimonials-main .name, #post .post-meta .btn-readmore, #post .posts-archive .item figure .date .date-month, #post .single-post .post-author .post-author-content .post-author-text h5, #post .single-post .posts-related .item .btn-readmore, .page-author .author .author-content .author-text h5, .widget .dotstheme_tweets_widget li .avatar a { background-color:#42a52b; }
+
+.panel-default > .panel-heading, #slider2 .slider-carousel .flexslider ul li.flex-active-slide { background:#42a52b; }
+
+.tbl-pricing .item.tbl-recommend .tbl-header {
+	background-color:#42a52b;
+	border-bottom:1px solid #31901b;	
+}
+
+#header form input[type="text"]:focus { border:1px solid #42a52b; }
+
+#navigation .menu > li > a:hover, #navigation .menu > li.current > a { border-bottom:3px solid #42a52b; }
+
+#slider2 .slider-gallery .slider-text p { border-left:3px solid #42a52b; }
+
+.features .item:hover i {
+	color:#42a52b;
+	border:3px solid #42a52b;	
+}
+
+.btn-custom:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover, button:hover, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .tbl-pricing .item.tbl-recommend .tbl-price, .form-search-input input[type="submit"]:hover, #header form input[type="submit"]:hover, .portfolios .item .btn-readmore a:hover, #post .post-meta .btn-readmore:hover, #post .posts-archive .item figure .date, #post .single-post .posts-related .item .btn-readmore a:hover, .widget .dotstheme_tweets_widget li .avatar a:hover { background-color:#61b84c; }
+
+.panel-default > .panel-heading:hover { background:#61b84c; }
+
+#post .nav-pagination ul li.active a, #post .nav-pagination ul li a:hover {
+	background-color:#42a52b;
+	border:1px solid #42a52b;
+}
+
+#portfolio .portfolio-menu a.active {
+	color:#42a52b;
+	border-top:2px solid #42a52b;
+}
+
+@media (max-width: 767px) {
+
+	#portfolio .portfolio-menu a { background-color:#42a52b; }
+	
+	#portfolio .portfolio-menu a:hover, #portfolio .portfolio-menu a.active { background-color:#61b84c; }
+	
+}
